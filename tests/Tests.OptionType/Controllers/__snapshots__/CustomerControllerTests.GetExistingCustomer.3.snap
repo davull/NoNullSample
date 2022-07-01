@@ -1,0 +1,11 @@
+﻿{
+  "Value": {
+    "Number": "003",
+    "FullName": "Bob Marley",
+    "FormattedAddress": ""
+  },
+  "Formatters": [],
+  "ContentTypes": [],
+  "DeclaredType": null,
+  "StatusCode": 200
+}

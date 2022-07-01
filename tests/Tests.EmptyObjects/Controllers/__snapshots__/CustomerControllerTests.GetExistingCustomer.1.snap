@@ -1,0 +1,11 @@
+﻿{
+  "Value": {
+    "Number": "001",
+    "FullName": "John Smith",
+    "FormattedAddress": "123 Main St\n12345 Anytown\nUSA\n"
+  },
+  "Formatters": [],
+  "ContentTypes": [],
+  "DeclaredType": null,
+  "StatusCode": 200
+}
